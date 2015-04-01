@@ -24,5 +24,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'guard',         '~> 2.12'
   s.add_development_dependency 'guard-rspec',   '~> 4.5'
   s.add_development_dependency 'guard-rubocop', '~> 1.2'
+
+  s.add_runtime_dependency 'fb_graph2', '~> 0.5'
 end
 

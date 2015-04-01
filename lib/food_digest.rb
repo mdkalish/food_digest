@@ -1,3 +1,3 @@
-class FoodDigest
+module FoodDigest
 end
 
